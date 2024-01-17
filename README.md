@@ -17,7 +17,7 @@ This code connects to a [DB](https://github.com/oracle/srivera1/mnist_oracle) wi
       console.log(result);
 
 
-![front](https://github.com/srivera1/mnist-node-oracle/blob/main/img/front.png?raw=true)
+![front](https://github.com/srivera1/mnist-node-oracle/blob/master/img/front.png?raw=true)
 
 ## Clone and install
 
