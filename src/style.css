@@ -1,0 +1,63 @@
+/* Global Styles */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+  }
+  
+  /* Heading Styles */
+  h1.welcome {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  h1.heading {
+    font-size: 36px;
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  /* Sketchpad Styles */
+  #sketchpadapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  
+  canvas#sketchpad {
+    border: 2px solid #fff;
+  }
+  
+  .buttons_div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  button.btn {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  /* Prediction Styles */
+  .predicted_answer {
+    text-align: center;
+  }
+  
+  h2#prediction_heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h1#result {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  p#floatValue {
+    font-size: 18px;
+  }

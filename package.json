@@ -1,0 +1,33 @@
+{
+  "name": "mnist-node-oracle",
+  "version": "0.0.0",
+  "description": "A Node.js machine learning example with Oracle Database from JavaScript",
+  "license": "(MIT)",
+  "homepage": "http://github.com/srivera1/mnist-node-oracle/",
+  "keywords": [
+    "Oracle",
+    "node",
+    "mnist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oracle/srivera1/mnist-node-oracle.git"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0"
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=14.6"
+  },
+  "maintainers": [
+    {
+      "name": "Sergio Rivera"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "oracledb": "^6.3.0"
+  }
+}

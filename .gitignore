@@ -1,0 +1,29 @@
+# General Ignores
+*~
+*.o
+\#*#
+core
+*.tgz
+GPATH
+GRTAGS
+GTAGS
+oracle_private/specs/*.pdf
+__pycache__/
+doc/build
+
+# macOS Ignores
+.DS_Store
+
+# Node Ignores
+npm-debug.log
+node_modules
+package-lock.json
+
+# Oracle Ignores
+sqlnet.log
+sqlnet.ora
+tnsnames.ora
+oraaccess.xml
+instantclient*
+logs/*
+.node-oracledb.env
