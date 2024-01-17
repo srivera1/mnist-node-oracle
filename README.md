@@ -21,7 +21,9 @@ This code connects to a [DB](https://github.com/oracle/srivera1/mnist_oracle) wi
 
 ## Clone and install
 
-$ git clone https://github.com/oracle/srivera1/mnist-node-oracle.git
+$ git clone https://github.com/srivera1/mnist-node-oracle.git
+
+$ cd mnist-node-oracle/
 
 $ npm install
 
